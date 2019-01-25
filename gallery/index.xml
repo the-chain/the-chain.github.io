@@ -6,15 +6,24 @@
     <description>Recent content in Galleries on The Chain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 May 2017 22:25:02 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 22:25:02 -0700</lastBuildDate>
     
 	<atom:link href="https://the-chain.github.io/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>surgflow</title>
+      <link>https://the-chain.github.io/gallery/surgflow/</link>
+      <pubDate>Tue, 15 May 2018 22:25:02 -0700</pubDate>
+      
+      <guid>https://the-chain.github.io/gallery/surgflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>finHack</title>
       <link>https://the-chain.github.io/gallery/finhack/</link>
-      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0800</pubDate>
       
       <guid>https://the-chain.github.io/gallery/finhack/</guid>
       <description></description>

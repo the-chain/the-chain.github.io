@@ -6,10 +6,19 @@
     <description>Recent content on The Chain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Jun 2017 17:39:21 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 22:25:02 -0700</lastBuildDate>
     
 	<atom:link href="https://the-chain.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>surgflow</title>
+      <link>https://the-chain.github.io/gallery/surgflow/</link>
+      <pubDate>Tue, 15 May 2018 22:25:02 -0700</pubDate>
+      
+      <guid>https://the-chain.github.io/gallery/surgflow/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -23,20 +32,9 @@ The Chain comes from the alliance of a group of entrepreneurs, academics, and pr
     </item>
     
     <item>
-      <title></title>
-      <link>https://the-chain.github.io/aboutspanish/</link>
-      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
-      
-      <guid>https://the-chain.github.io/aboutspanish/</guid>
-      <description>The Chain Es una fabrica de software especializada en el desarrollo de aplicaciones, servicios y soluciones en Blockchain e Inteligencia Artificial.
-Nuestro equipo esta conformado por Ingenieros de Software, Investigadores, Docentes y Asesores en Tecnología Financiera, los cuales trabajan conjuntamente nuestros procesos de desarrollo.
-The Chain es el producto de una Alianza entre un grupo de empresas y profesionales, con amplia experiencia en el area de Fintechs, Mentoring, Incubadoras, Angel Investment y Desarrollo de Software.</description>
-    </item>
-    
-    <item>
       <title>finHack</title>
       <link>https://the-chain.github.io/gallery/finhack/</link>
-      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0800</pubDate>
       
       <guid>https://the-chain.github.io/gallery/finhack/</guid>
       <description></description>
